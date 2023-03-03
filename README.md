@@ -17,5 +17,5 @@ We encourage website owners to use this tool and upgrade to the latest version t
 
 Credits:
 
-    Rockblogger
-    SpiderBlogging.in
+    Telegram - @Rockblogger
+    Website  - SpiderBlogging.in
