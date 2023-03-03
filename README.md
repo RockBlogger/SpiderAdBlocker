@@ -1,12 +1,10 @@
 # Anti-AdBlocker - SpiderAdBlocker
 
-
 SpiderAdBlocker is a JavaScript code developed by rockblogger to detect and prevent the use of ad-blockers on websites. Ad-blockers have become a major concern for website owners, as they prevent ads from being displayed and negatively impact revenue generation. SpiderAdBlocker offers a solution to this problem by allowing website owners to detect and block users who are using ad-blockers, ensuring that ads are displayed and revenue is generated.
 
 To install SpiderAdBlocker, simply add the following code to the </body> section of your website:
 
 &nbsp;
-
 <script src='https://cdn.jsdelivr.net/gh/rockblogger/SpiderAdBlocker/v3/code.min.js'>
 </script>
 &nbsp;
