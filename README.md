@@ -4,7 +4,7 @@ SpiderAdBlocker is a JavaScript code developed by rockblogger to detect and prev
 
 To install SpiderAdBlocker, simply add the following code to the </body> section of your website:
 ```
-<script src='https://cdn.jsdelivr.net/gh/rockblogger/SpiderAdBlocker/v3/code.min.js'>
+<script src='https://cdn.jsdelivr.net/gh/rockblogger/SpiderAdBlocker@latest/v3/code.min.js'>
 </script>
 
 ```
